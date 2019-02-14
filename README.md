@@ -29,3 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Git push command
 
 git remote add origin https://github.com/Mufasatheking/oshop.git
+git push -u origin master
